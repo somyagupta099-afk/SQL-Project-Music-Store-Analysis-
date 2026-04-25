@@ -1,7 +1,7 @@
+SQL Project: Music Store Analysis 🎵
 📌 Project Overview
 
 This project focuses on analyzing an online music store database using SQL to uncover valuable business insights. 
-
 
 🎯 Objectives
 The main objectives of this project are to:
@@ -12,3 +12,16 @@ Understand revenue generation across different countries and cities
 Find the best customers based on spending patterns
 Discover the most popular music genres
 Support business decisions using SQL-based insights
+
+📊 Key Business Questions Solved
+
+Who is the senior most employee based on job title?
+Which countries have the most invoices?
+What are the top 3 highest invoice values?
+Which city has the best customers (highest revenue)?
+Who is the best customer based on total spending?
+Which music genre is the most popular?
+Which artist has earned the most revenue?
+Which customers listen to Rock music?
+Which country spends the most on music purchases?
+Which artist contributes most to sales?
